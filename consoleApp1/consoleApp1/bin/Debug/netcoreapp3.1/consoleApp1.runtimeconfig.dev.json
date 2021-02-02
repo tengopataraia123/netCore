@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mistera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mistera\\.nuget\\packages"
+    ]
+  }
+}
